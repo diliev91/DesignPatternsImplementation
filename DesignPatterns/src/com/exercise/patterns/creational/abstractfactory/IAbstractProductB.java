@@ -1,0 +1,4 @@
+package com.exercise.patterns.creational.abstractfactory;
+
+public interface IAbstractProductB {
+}
