@@ -7,6 +7,7 @@ import com.exercise.patterns.behavioural.templatemethod.TemplateMethodPatternExa
 import com.exercise.patterns.creational.abstractfactory.AbstractFactoryExample;
 import com.exercise.patterns.creational.builder.BuilderExample;
 import com.exercise.patterns.creational.prototype.PrototypeExample;
+import com.exercise.patterns.creational.threadpool.ObjectPoolExample;
 import com.exercise.patterns.structural.adapter.AdapterPatternExample;
 import com.exercise.patterns.structural.bridge.BridgePatternExample;
 import com.exercise.patterns.behavioural.command.CommandPatternExample;
@@ -41,6 +42,7 @@ public class Implementations {
                 new NullObjectExample(),
                 new BuilderExample(),
                 new PrototypeExample(),
+                new ObjectPoolExample(),
         };
     }
 }
