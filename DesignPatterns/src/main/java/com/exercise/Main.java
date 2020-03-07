@@ -19,7 +19,7 @@ public class Main {
     //☐Private Class Data
     //☑Proxy
     //☑Decorator
-    //☐Iterator
+    //☑Iterator
 //Behavioural Design Patterns:
     //☐Chain of Responsibility
     //☑Command
@@ -28,7 +28,7 @@ public class Main {
     //☐Memento
     //☐Null Object
     //☑Observer
-    //☐State
+    //☑State
     //☑Strategy
     //☑Template Method
     //☐Visitor

@@ -1,6 +1,7 @@
 package com.exercise;
 
 import com.exercise.patterns.IPatternExample;
+import com.exercise.patterns.behavioural.state.StateExample;
 import com.exercise.patterns.behavioural.templatemethod.TemplateMethodPatternExample;
 import com.exercise.patterns.creational.abstractfactory.AbstractFactoryExample;
 import com.exercise.patterns.structural.adapter.AdapterPatternExample;
@@ -33,7 +34,7 @@ public class Implementations {
                 new TemplateMethodPatternExample(),
                 new CompositePatternExample(),
                 new RangeIteratorExample(),
-
+                new StateExample(),
         };
     }
 }
