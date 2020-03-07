@@ -26,7 +26,7 @@ public class Main {
     //☐Interpreter
     //☐Mediator
     //☐Memento
-    //☐Null Object
+    //☐Null Object Pattern
     //☑Observer
     //☑State
     //☑Strategy

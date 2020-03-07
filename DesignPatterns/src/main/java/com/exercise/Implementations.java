@@ -1,6 +1,7 @@
 package com.exercise;
 
 import com.exercise.patterns.IPatternExample;
+import com.exercise.patterns.behavioural.nullobject.NullObjectExample;
 import com.exercise.patterns.behavioural.state.StateExample;
 import com.exercise.patterns.behavioural.templatemethod.TemplateMethodPatternExample;
 import com.exercise.patterns.creational.abstractfactory.AbstractFactoryExample;
@@ -35,6 +36,7 @@ public class Implementations {
                 new CompositePatternExample(),
                 new RangeIteratorExample(),
                 new StateExample(),
+                new NullObjectExample(),
         };
     }
 }
