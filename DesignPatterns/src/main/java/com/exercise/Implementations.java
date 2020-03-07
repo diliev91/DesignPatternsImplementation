@@ -11,6 +11,7 @@ import com.exercise.patterns.structural.decorator.DecoratorExample;
 import com.exercise.patterns.structural.facade.FacadePatternExample;
 import com.exercise.patterns.creational.factorymethod.FactoryMethodExample;
 import com.exercise.patterns.behavioural.observer.ObserverExample;
+import com.exercise.patterns.structural.iterator.RangeIteratorExample;
 import com.exercise.patterns.structural.proxy.ProxyPatternExample;
 import com.exercise.patterns.creational.singleton.SingletonPatternExample;
 import com.exercise.patterns.behavioural.strategy.StrategyExample;
@@ -31,6 +32,8 @@ public class Implementations {
                 new BridgePatternExample(),
                 new TemplateMethodPatternExample(),
                 new CompositePatternExample(),
+                new RangeIteratorExample(),
+
         };
     }
 }
