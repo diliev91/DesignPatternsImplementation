@@ -5,7 +5,7 @@ import com.exercise.patterns.IPatternExample;
 public class Main {
 //Creational Design Patterns:☑☐
     //☑Abstract Factory
-    //☐Builder
+    //☑Builder
     //☑Factory Method
     //☐Object Pool
     //☐Prototype
@@ -26,7 +26,7 @@ public class Main {
     //☐Interpreter
     //☐Mediator
     //☐Memento
-    //☐Null Object Pattern
+    //☑Null Object Pattern
     //☑Observer
     //☑State
     //☑Strategy

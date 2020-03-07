@@ -5,6 +5,7 @@ import com.exercise.patterns.behavioural.nullobject.NullObjectExample;
 import com.exercise.patterns.behavioural.state.StateExample;
 import com.exercise.patterns.behavioural.templatemethod.TemplateMethodPatternExample;
 import com.exercise.patterns.creational.abstractfactory.AbstractFactoryExample;
+import com.exercise.patterns.creational.builder.BuilderExample;
 import com.exercise.patterns.structural.adapter.AdapterPatternExample;
 import com.exercise.patterns.structural.bridge.BridgePatternExample;
 import com.exercise.patterns.behavioural.command.CommandPatternExample;
@@ -37,6 +38,7 @@ public class Implementations {
                 new RangeIteratorExample(),
                 new StateExample(),
                 new NullObjectExample(),
+                new BuilderExample(),
         };
     }
 }
