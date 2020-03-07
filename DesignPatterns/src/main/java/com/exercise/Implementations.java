@@ -6,6 +6,10 @@ import com.exercise.patterns.behavioural.state.StateExample;
 import com.exercise.patterns.behavioural.templatemethod.TemplateMethodPatternExample;
 import com.exercise.patterns.creational.abstractfactory.AbstractFactoryExample;
 import com.exercise.patterns.creational.builder.BuilderExample;
+<<<<<<< HEAD
+=======
+import com.exercise.patterns.creational.prototype.PrototypeExample;
+>>>>>>> Builder pattern example
 import com.exercise.patterns.structural.adapter.AdapterPatternExample;
 import com.exercise.patterns.structural.bridge.BridgePatternExample;
 import com.exercise.patterns.behavioural.command.CommandPatternExample;
@@ -39,6 +43,7 @@ public class Implementations {
                 new StateExample(),
                 new NullObjectExample(),
                 new BuilderExample(),
+                new PrototypeExample(),
         };
     }
 }

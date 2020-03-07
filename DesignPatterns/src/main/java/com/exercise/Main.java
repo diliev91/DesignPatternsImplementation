@@ -8,7 +8,7 @@ public class Main {
     //☑Builder
     //☑Factory Method
     //☐Object Pool
-    //☐Prototype
+    //☑Prototype
     //☑Singleton
 //Structural Patterns:
     //☑Adapter
