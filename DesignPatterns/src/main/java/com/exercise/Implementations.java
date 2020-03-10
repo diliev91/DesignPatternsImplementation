@@ -18,6 +18,7 @@ import com.exercise.patterns.creational.factorymethod.FactoryMethodExample;
 import com.exercise.patterns.behavioural.observer.ObserverExample;
 import com.exercise.patterns.structural.flyweight.FlyweightExample;
 import com.exercise.patterns.structural.iterator.RangeIteratorExample;
+import com.exercise.patterns.structural.privateclassdata.PrivateClassDataExample;
 import com.exercise.patterns.structural.proxy.ProxyPatternExample;
 import com.exercise.patterns.creational.singleton.SingletonPatternExample;
 import com.exercise.patterns.behavioural.strategy.StrategyExample;
@@ -45,6 +46,7 @@ public class Implementations {
                 new PrototypeExample(),
                 new ObjectPoolExample(),
                 new FlyweightExample(),
+                new PrivateClassDataExample(),
         };
     }
 }
