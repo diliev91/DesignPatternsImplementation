@@ -1,6 +1,7 @@
 package com.exercise;
 
 import com.exercise.patterns.IPatternExample;
+import com.exercise.patterns.behavioural.chainofresponsibility.ChainOfResponsibilityExample;
 import com.exercise.patterns.behavioural.nullobject.NullObjectExample;
 import com.exercise.patterns.behavioural.state.StateExample;
 import com.exercise.patterns.behavioural.templatemethod.TemplateMethodPatternExample;
@@ -47,6 +48,7 @@ public class Implementations {
                 new ObjectPoolExample(),
                 new FlyweightExample(),
                 new PrivateClassDataExample(),
+                new ChainOfResponsibilityExample(),
         };
     }
 }
