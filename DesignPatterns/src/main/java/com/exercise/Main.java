@@ -15,7 +15,7 @@ public class Main {
     //☑Bridge
     //☑Composite
     //☑Facade
-    //☐Flyweight
+    //☑Flyweight
     //☐Private Class Data
     //☑Proxy
     //☑Decorator
