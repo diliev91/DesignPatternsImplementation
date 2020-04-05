@@ -21,11 +21,11 @@ public class Main {
     //☑Decorator
     //☑Iterator
 //Behavioural Design Patterns:
-    //☐Chain of Responsibility
+    //☑Chain of Responsibility
     //☑Command
     //☐Interpreter
-    //☐Mediator
-    //☐Memento
+    //☑Mediator
+    //☑Memento
     //☑Null Object Pattern
     //☑Observer
     //☑State

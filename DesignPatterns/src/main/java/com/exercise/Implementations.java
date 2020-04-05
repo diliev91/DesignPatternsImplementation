@@ -2,9 +2,12 @@ package com.exercise;
 
 import com.exercise.patterns.IPatternExample;
 import com.exercise.patterns.behavioural.chainofresponsibility.ChainOfResponsibilityExample;
+import com.exercise.patterns.behavioural.mediator.MediatorExample;
+import com.exercise.patterns.behavioural.memento.MementoExample;
 import com.exercise.patterns.behavioural.nullobject.NullObjectExample;
 import com.exercise.patterns.behavioural.state.StateExample;
 import com.exercise.patterns.behavioural.templatemethod.TemplateMethodPatternExample;
+import com.exercise.patterns.behavioural.visitor.VisitorExample;
 import com.exercise.patterns.creational.abstractfactory.AbstractFactoryExample;
 import com.exercise.patterns.creational.builder.BuilderExample;
 import com.exercise.patterns.creational.prototype.PrototypeExample;
@@ -49,6 +52,9 @@ public class Implementations {
                 new FlyweightExample(),
                 new PrivateClassDataExample(),
                 new ChainOfResponsibilityExample(),
+                new MediatorExample(),
+                new MementoExample(),
+                new VisitorExample(),
         };
     }
 }
